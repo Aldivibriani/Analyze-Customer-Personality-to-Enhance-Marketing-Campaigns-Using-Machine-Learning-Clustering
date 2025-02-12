@@ -1,2 +1,1 @@
-# Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning
-Predict Customer Personality to Boost Marketing Campaign by Using Unspervised Learning Clustering
+# Analyze Customer Personality to Enhance Marketing Campaigns Using Machine Learning Clustering
